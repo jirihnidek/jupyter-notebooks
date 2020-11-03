@@ -1,2 +1,3 @@
-# jupyter-notebooks
-My Jupyter notebooks
+# Jupyter Notebooks
+
+This repository contains my Jupyter notebooks.
